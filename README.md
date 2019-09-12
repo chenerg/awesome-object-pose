@@ -18,7 +18,7 @@ This repository is a curated list of papers and open source code for 6D Object P
 * Real-Time 6D Object Pose Estimation on CPU - Yoshinori Konishi, Kosuke Hattori, Manabu Hashimoto. [[Paper]](https://arxiv.org/pdf/1811.08588.pdf)
 * Holistic and local patch framework for 6D object pose estimation in RGB-D images - Haoruo Zhang, Qixin Cao. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1077314219300050)
 * Estimating 6D Pose From Localizing Designated Surface Keypoints - Zelin Zhao, Gao Peng, Haoyu Wang, Hao-Shu Fang, Chengkun Li, Cewu Lu. [[Paper]](https://arxiv.org/pdf/1812.01387v1.pdf)
-* Real-Time Object Pose Estimation with Pose Interpreter Networks- Jimmy Wu, Bolei Zhou, Rebecca Russell, Vincent Kee, Syler Wagner, Mitchell Hebert, Antonio Torralba, David M.S. Johnson. [[Paper]](https://arxiv.org/pdf/1808.01099.pdf)
+* ~~Real-Time Object Pose Estimation with Pose Interpreter Networks- Jimmy Wu, Bolei Zhou, Rebecca Russell, Vincent Kee, Syler Wagner, Mitchell Hebert, Antonio Torralba, David M.S. Johnson.~~ [[Paper]](https://arxiv.org/pdf/1808.01099.pdf)
 * Segmentation-driven 6D Object Pose Estimation - Yinlin Hu, Joachim Hugonot, Pascal Fua, Mathieu Salzmann. [[Paper]](https://arxiv.org/pdf/1812.02541.pdf)
 * Robust 6D Object Pose Estimation with Stochastic Congruent Sets - Chaitanya Mitash, Abdeslam Boularias, Kostas E. Bekris. [[Paper]](http://bmvc2018.org/contents/papers/1046.pdf)
 * BOP: Benchmark for 6D Object Pose Estimation - Tomas Hodan, Frank Michel, Eric Brachmann, Wadim Kehl, Anders Glent Buch, Dirk Kraft, Bertram Drost, Joel Vidal, Stephan Ihrke, Xenophon Zabulis, Caner Sahin, Fabian Manhardt, Federico Tombari, Tae-Kyun Kim, Jiri Matas, Carsten Rother. [[Paper]](https://arxiv.org/pdf/1808.08319.pdf)
