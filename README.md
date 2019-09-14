@@ -30,7 +30,7 @@ This repository is a curated list of papers and open source code for 6D Object P
 * Real-Time Seamless Single Shot 6D Object Pose Prediction - Bugra Tekin, Sudipta N. Sinha, Pascal Fua. [[Paper]](https://arxiv.org/pdf/1711.08848.pdf)
 * SSD-6D: Making RGB-based 3D detection and 6D pose estimation great again - Wadim Kehl, Fabian Manhardt, Federico Tombari, Slobodan Ilic, Nassir Navab. [[Paper]](https://arxiv.org/pdf/1711.10006.pdf)
 * Deep Learning of Local RGB-D Patches for 3D Object Detection and 6D Pose Estimation - Wadim Kehl, Fausto Milletari, Federico Tombari, Slobodan Ilic, Nassir Navab. [[Paper]](https://arxiv.org/pdf/1607.06038.pdf)
-* Deep-6DPose: Recovering 6D Object Pose from a Single RGB Image - Thanh-Toan Do, Ming Cai, Trung Pham, Ian Reid. [[Paper]] (https://arxiv.org/pdf/1802.10367.pdf)
+* ~~Deep-6DPose: Recovering 6D Object Pose from a Single RGB Image - Thanh-Toan Do, Ming Cai, Trung Pham, Ian Reid.~~ [[Paper]] (https://arxiv.org/pdf/1802.10367.pdf)
 * Learning 6D Object Pose Estimation Using 3D Object Coordinates - Eric Brachmann, Alexander Krull, Frank Michel, Stefan Gumhold, Jamie Shotton, Carsten Rother. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-10605-2_35.pdf)
 * The MOPED framework: Object recognition and pose estimation for manipulation - Alvaro Collet Romea, Manuel Martinez Torres and Siddhartha Srinivasa. [[Paper]](https://www.ri.cmu.edu/pub_files/2011/9/moped.pdf)
 
